@@ -1,0 +1,50 @@
+/projeto
+   /frontend
+       .gitignore
+       index.html
+   /backend
+
+   # Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de pacotes / dependências
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de visualização / imagens geradas
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Configurações do VSCode (opcional)
+.vscode/
+
+# Arquivos gerados por matplotlib ou wordcloud
+*.svg
+*.eps
+*.tif
