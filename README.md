@@ -130,5 +130,4 @@ plt.show()
 * Curso: MBA – Unifor
 * Módulo: Web Crawling, Scraping e Coleta de Dados Automatizada
 
-
-Quer que eu faça isso?
+  
