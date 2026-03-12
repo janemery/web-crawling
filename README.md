@@ -130,8 +130,5 @@ plt.show()
 * Curso: MBA – Unifor
 * Módulo: Web Crawling, Scraping e Coleta de Dados Automatizada
 
----
-
-Se você quiser, posso também criar **uma versão final do `requirements.txt` e `.gitignore`** perfeita para este projeto, pronta para subir no GitHub.
 
 Quer que eu faça isso?
